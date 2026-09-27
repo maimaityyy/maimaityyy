@@ -17,12 +17,10 @@
 
 ### Highlights
 
-| | |
-|---|---|
-| **Research** | FrugalNeRFを基盤とした 少数視点3次元再構成におけるノイズ（floater）低減手法の研究 |
-| **Work** | コンサルティングからAIシステムの開発・導入まで 企業のAIXを一貫して支援<br>画像生成AI共同研究プロジェクトにて1テーマのリードを約1年間担当 |
-| **Talk** | NVIDIA学生アンバサダーワークショップ（2026.08）にて instant-ngpを用いたメッシュ化について発表 [→ 開催報告](https://www.teu.ac.jp/information/2026.html?id=216) |
-| **Award** | 学部長賞 Stable Diffusionを用いた画像生成Slackbot |
+- **Research** FrugalNeRFを基盤とした 少数視点3次元再構成におけるノイズ（floater）低減手法の研究
+- **Work** コンサルティングからAIシステムの開発・導入まで 企業のAIXを一貫して支援 画像生成AI共同研究プロジェクトにて1テーマのリードを約1年間担当
+- **Talk** NVIDIA学生アンバサダーワークショップ（2026.08）にて instant-ngpを用いたメッシュ化について発表 [→ 開催報告](https://www.teu.ac.jp/information/2026.html?id=216)
+- **Award** 学部長賞 Stable Diffusionを用いた画像生成Slackbot
 
 ### Tech Stack
 
